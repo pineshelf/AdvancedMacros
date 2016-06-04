@@ -1,4 +1,5 @@
 ## Interface: 11200
 ## Title: AdvancedMacros
+## Notes: For cool stuff.
 advancedmacros.lua
 advancedmacros.xml
