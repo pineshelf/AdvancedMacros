@@ -12,6 +12,6 @@ function am_deathray_eviscerate()
 	if amdeathrayactive == 1 then
 		--do nothing
 	else
-		CastSpellByName("Bloodrage") -- this is obviously the part to edit for any other class that wants to use this
+		CastSpellByName("Eviscerate") -- this is obviously the part to edit for any other class that wants to use this
 	end
 end
